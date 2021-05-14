@@ -26,9 +26,8 @@ sh vaccine-notifier.sh
 ![Demo](https://raw.githubusercontent.com/sagar-jadhav/covid-vaccine-slot-notifier/master/demo.gif)
 
 # Contributing
-We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
+You can contribute through following ways:
 
-- Reporting a bug
-- Discussing the current state of the code
-- Submitting a fix
-- Proposing new features
+- Report a bug
+- Submit a fix
+- Propose new features
