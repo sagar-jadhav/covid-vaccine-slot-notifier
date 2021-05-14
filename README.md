@@ -1,9 +1,9 @@
 # covid-vaccine-slot-notifier
 - Periodically checks and notifies about the available slot for Covid Vaccination from CoWIN Portal at a given date for a given area. 
 - Uses Open APIs to check the available slots. Visit [here](https://apisetu.gov.in/public/marketplace/api/cowin) for more information on Open APIs.
-- Supports only Mac OS as of now. Support for other OS may come in near future.
+- Supports only Mac OS. Support for other OS may come in near future.
 - Uses Mac OS notification to notify about the available slot.
-- Advantage of Mac OS notification over notification through email is it very quick and instant. Notification over email may take more time as it involves network calls.
+- Advantage of Mac OS notification over notification through email is it is very quick and instant. Notification over email may take more time as it involves network calls.
 
 # Installation
 
